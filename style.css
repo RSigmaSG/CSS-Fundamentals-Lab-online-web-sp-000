@@ -49,6 +49,7 @@ figcaption{
   background-color: red;
   position: absolute;
   bottom:0;
+  width:100%;
 }
 
 #details div{
