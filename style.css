@@ -51,4 +51,5 @@ figcaption{
   float: left;
   background-color: red;
   position: absolute;
+  bottom:0;
 }
