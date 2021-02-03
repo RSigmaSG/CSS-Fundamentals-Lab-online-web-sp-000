@@ -51,7 +51,7 @@ figcaption{
   background-color: red;
 }
 
-#details {
+#details div{
   position: absolute;
   bottom: 0;
 }
