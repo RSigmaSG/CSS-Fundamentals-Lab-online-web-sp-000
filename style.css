@@ -50,3 +50,7 @@ figcaption{
   position: absolute;
   bottom:0;
 }
+
+#details div{
+  float: left;
+}
