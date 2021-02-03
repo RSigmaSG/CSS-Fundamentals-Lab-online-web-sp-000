@@ -50,9 +50,10 @@ figcaption{
   text-align: center;
   float: left;
   background-color: red;
+  position: absolute;
+  top: 100%;
 }
 
 #details {
-  position: absolute;
-  top: 100^;
+
 }
